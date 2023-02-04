@@ -6,12 +6,10 @@ fork 了一堆从未二次打开的仓库
 
 迁移仓库到其他地方管理
 
-。。。
-
 ### 安装
 
 ```shell
-git clone git@github.com:itzhangbao/remove-repos.git
+git clone git@github.com:zh4men9/remove-repos.git
 cd remove-repos
 ```
 
